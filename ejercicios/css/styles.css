@@ -1,0 +1,60 @@
+#encabezado{
+    font-size: 75px;
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+}
+
+h3{
+    font-family: "New Amsterdam", sans-serif;
+    font-size: 25px;
+    font-style: italic;
+    text-align: center;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid black;
+    padding: 15px 0px 15px 0px;
+
+}
+#disco{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+body{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,8,116,1) 0%, rgba(9,9,121,1) 0%, rgba(4,150,7,1) 0%, rgba(0,212,255,1) 97%);
+}
+#discoref{ 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
+div.container{
+    text-align: center;
+}
+ul.myul{
+    display: inline-block;
+    text-align: left;
+}
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+    float: left;
+    width: 18%;
+    padding: 5px;
+  }
+  
+  /* Clear floats after image containers */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  #redsocial{
+    width: 150px;
+  }

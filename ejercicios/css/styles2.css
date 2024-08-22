@@ -1,0 +1,11 @@
+h1,h2{
+    text-align: center;
+    text-decoration: underline overline;
+
+}
+body{
+    background-color: #00d4ff;
+}
+div{
+    border: 10px solid black;
+}

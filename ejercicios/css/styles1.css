@@ -1,0 +1,14 @@
+h1{
+    font-family: fantasy;
+    text-align: center;
+    font-size: large;
+}
+
+div{
+    text-align: center;
+    font-family: cursive;
+    border: 10px solid black;
+}
+h2{
+    font-size: x-small;
+}
